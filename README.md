@@ -16,7 +16,7 @@ This project is written in Python, on the JupyterLab UI environment for Project 
 ### Execution
 To execute the program simply open up the Jupyter notebook and run individual code cells.
 
-## Documentaton
+## Documentation
 Still in development.
 
 ## Contributing
