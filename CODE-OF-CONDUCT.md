@@ -74,7 +74,7 @@ For information on enforcement, please view the [*Enforcement
 Manual*](enforcement.md).
 
 Original text courtesy of the [*Speak
-Up!*](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), [*Django*](https://www.djangoproject.com/conduct) and [*Jupyter!*](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md) Projects,
+Up!*](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), [*Django*](https://www.djangoproject.com/conduct) and [*Jupyter*](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md) Projects,
 modified by bigideas.  We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
 
 All content on this page is licensed under a [*Creative Commons
